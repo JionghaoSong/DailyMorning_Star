@@ -2,6 +2,13 @@
 # 给庆宝的每日早安
 
 需要修改的，直接Fork到自己的仓库，修改config的里面的参数就行。
+APP_ID: 公众平台 appID
+APP_SECRET: 公众平台 appSecret
+TEMPLATE_ID: 模板 ID
+USER_ID: 接收人的 OpenID 多个用换行分隔
+BIRTHDAY: 倒数日（原生日），换行分隔，见更新说明。格式如 05-20，1999-11-04 这种
+START_DATE: 正数日期，格式：2008-08-08
+CITY: 城市，不要加市，准确到地级市。比如：北京、天津、广州、承德。
 具体可以移步 https://github.com/rxrw/daily_morning 寻找几个关键参数
 
 效果如图
