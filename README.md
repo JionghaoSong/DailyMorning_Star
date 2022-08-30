@@ -1,7 +1,7 @@
 # DailyMorning_for_DXQ
 # 给庆宝的每日早安
 
-需要修改的，直接Fork到自己的仓库，修改config的里面的参数就行。
+需要修改的，直接Fork到自己的仓库，修改config的里面的参数就行。<br>
 APP_ID: 公众平台 appID
 APP_SECRET: 公众平台 appSecret
 TEMPLATE_ID: 模板 ID
