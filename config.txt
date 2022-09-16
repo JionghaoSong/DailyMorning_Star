@@ -2,23 +2,21 @@
 {
 # 公众号配置
 # 公众号appId
-"app_id": "wxa798d*******2b41",
+"app_id": "wxbbdac1514d9529b7",
 # 公众号appSecret
-"app_secret": "1f28c7b7d4*******c9a10deb45b96e5",
+"app_secret": "5831a411d40e643695eb6837a3b00d1f",
 # 模板消息id
-"template_id": "Oxhna4AulaFbI*******eOXGN4qKucO6GV--giO1oJg",
+"template_id": "	EN9qI8xLNubeuTDE6RhUm4uFAhttXSmXodvtoO6fd1o",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oVtAf5gqB****yMSmrHPnMrrVQzI", "oVtAf5r5QPe*****pG-Eo48fyoYw"],
+"user": ["orVc56_YRzoL1wsMikjhzk7Zn9HM", "orVc563WxCaasbvCJe34LZ1H3EbA"],
 
 # 信息配置
 # 所在省份
-"province": "河北",
+"province": "唐山",
 # 所在城市
-"city": "石家庄",
+"city": "迁安",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
-"birthday1": {"name": "庆庆", "birthday": "2001-04-04"},
-# 生日2
-"birthday2": {"name": "炯炯", "birthday": "2000-12-17"},
+"birthday1": {"name": "Fairy", "birthday": "2000-07-09"},
 # 在一起的日子，格式同上
-"love_date": "2022-06-26"
+"love_date": "2019-12-08"
 }
