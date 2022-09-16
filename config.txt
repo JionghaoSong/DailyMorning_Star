@@ -1,13 +1,14 @@
+################### 为了怕小伙伴们直接运行，我做了脱敏处理###################
 {
 # 公众号配置
 # 公众号appId
-"app_id": "wxa798db8e2e042b41",
+"app_id": "wxa798d*******2b41",
 # 公众号appSecret
-"app_secret": "1f28c7b7d4e663a9ec9a10deb45b96e5",
+"app_secret": "1f28c7b7d4*******c9a10deb45b96e5",
 # 模板消息id
-"template_id": "Oxhna4AulaFbI0KU-qvveOXGN4qKucO6GV--giO1oJg",
+"template_id": "Oxhna4AulaFbI*******eOXGN4qKucO6GV--giO1oJg",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oVtAf5gqBJJaXyMSmrHPnMrrVQzI", "oVtAf5r5QPew7MGNpG-Eo48fyoYw"],
+"user": ["oVtAf5gqB****yMSmrHPnMrrVQzI", "oVtAf5r5QPe*****pG-Eo48fyoYw"],
 
 # 信息配置
 # 所在省份
