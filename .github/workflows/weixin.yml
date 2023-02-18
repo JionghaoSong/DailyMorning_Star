@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   schedule: 
     # 代表国际标准时间4点0分，北京时间需要+8小时，代表北京时间中午12点运行
-    - cron: '01 00 * * *'
+    - cron: '0 21 * * *'
 jobs:
 #将工作流程中运行的所有作业组合在一起
   build:
