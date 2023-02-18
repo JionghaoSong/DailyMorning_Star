@@ -23,4 +23,4 @@ jobs:
           pip3 install -r requirements.txt
       - name: weixin
         run: |
-          python3 main.py
+          python main.py
