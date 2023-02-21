@@ -11,9 +11,9 @@
 "user": ["oVtAf5gqB****yMSmrHPnMrrVQzI", "oVtAf5r5QPe*****pG-Eo48fyoYw"],
 
 # 信息配置
-# 所在省份
+# 所在省份   不加省，河北省写河北
 "province": "河北",
-# 所在城市
+# 所在城市   不加市，石家庄市写石家庄
 "city": "石家庄",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
 "birthday1": {"name": "庆庆", "birthday": "2001-04-04"},
