@@ -5,7 +5,7 @@
 1）去除自定义颜色、表情符号；（表情符号由替换为“□”改为直接去除）<br>
 2）去除尾部/备注内容；<br>
 3）去除首行内容。<br>
-~~具体可以移步  https://developers.weixin.qq.com/community/develop/doc/000a2ae286cdc0f41a8face4c51801?blockType=1&page=1#comment-list ~~
+~~具体可以移步  https://developers.weixin.qq.com/community/develop/doc/000a2ae286cdc0f41a8face4c51801?blockType=1&page=1#comment-list ~~ <br>
 2023.02.15：迄今运行稳定，若配置过公众号模板的配置后直接运行。后续会持续维护<br><br>
 2023.02.11： 因为用的是Github的服务器，所以不准时是很正常的。建议时间提前以及避开拥挤时间段(整点/半点)<br><br>
 2022.12.09 更新：修复了因为Python版本导致的运行失败，小伙伴们可以重新Fork一下，记着给Star<br><br>
