@@ -1,21 +1,21 @@
 # DailyMorning
 # 给庆宝的每日早安
-2023.05.07：可以使用的新模板
-今日：{{date.DATA}}
-城市：{{city.DATA}}
-天气：{{weather.DATA}}
-最低气温: {{min_temperature.DATA}}
-最高气温: {{max_temperature.DATA}}
+2023.05.07：可以使用的新模板<br><br>
+今日：{{date.DATA}}<br>
+城市：{{city.DATA}}<br>
+天气：{{weather.DATA}}<br>
+最低气温: {{min_temperature.DATA}}<br>
+最高气温: {{max_temperature.DATA}}<br><br>
 
-我们已经贴贴了{{love_day.DATA}}天💝
-💌{{birthday1.DATA}}
-💌{{birthday2.DATA}}
+我们已经贴贴了{{love_day.DATA}}天💝<br>
+💌{{birthday1.DATA}}<br>
+💌{{birthday2.DATA}}<br><br>
 
-今天也要乖乖的多喝水哦(^▽^)
+今天也要乖乖的多喝水哦(^▽^)<br><br>
 
-👋每日金句
-☀{{note_en.DATA}}
-☀{{note_ch.DATA}}
+👋每日金句<br>
+☀{{note_en.DATA}}<br>
+☀{{note_ch.DATA}}<br><br>
 2023.05.06：目前有个折中方案，大家可以自行参考，欢迎改进完成的友友提出Pull request。<br>
 一行文字不能仅使用 {{xxxx.Data}}  , {{xxxx.Data}} 前必须加可读文字。如：1. {{xxxx.Data}}<br><br
 2023.05.04：非常抱歉的通知大家，因为微信改版原因，暂时无法发送自定义颜色的文字了。<br>
