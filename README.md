@@ -1,5 +1,12 @@
 # DailyMorning
 # 给庆宝的每日早安
+2023.05.06：目前有个折中方案，大家可以自行参考，欢迎改进完成的友友提出Pull request。(最近在忙毕业，大概5月底会更新)<br>
+一行文字不能仅使用 {{xxxx.Data}}  , {{xxxx.Data}} 前必须加可读文字。如：1. {{xxxx.Data}}<br><br>
+例如改成 wx_birthday_{index}.DATA<br>
+模板示例：<br>
+提醒：{{wx_birthday_0.DATA}} <br>
+提醒：{{wx_birthday_1.DATA}} <br>
+提醒：{{wx_birthday_2.DATA}} <br><br>
 2023.05.04：非常抱歉的通知大家，因为微信改版原因，暂时无法发送自定义颜色的文字了。<br>
 更新如下：<br>
 1）去除自定义颜色、表情符号；（表情符号由替换为“□”改为直接去除）<br>
