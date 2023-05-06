@@ -17,7 +17,7 @@
 ☀{{note_en.DATA}}<br>
 ☀{{note_ch.DATA}}<br><br>
 2023.05.06：目前有个折中方案，大家可以自行参考，欢迎改进完成的友友提出Pull request。<br>
-一行文字不能仅使用 {{xxxx.Data}}  , {{xxxx.Data}} 前必须加可读文字。如：1. {{xxxx.Data}}<br><br
+一行文字不能仅使用 {{xxxx.Data}}  , {{xxxx.Data}} 前必须加可读文字。如：1. {{xxxx.Data}}<br><br>
 2023.05.04：非常抱歉的通知大家，因为微信改版原因，暂时无法发送自定义颜色的文字了。<br>
 ![image](https://user-images.githubusercontent.com/64049788/236507390-29b4841b-d8db-4d67-a524-80107d093d41.png)
 具体可以移步  https://developers.weixin.qq.com/community/develop/doc/000a2ae286cdc0f41a8face4c51801?blockType=1&page=1  <br><br>
