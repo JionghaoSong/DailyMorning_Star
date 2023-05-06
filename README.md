@@ -12,6 +12,7 @@
 1）去除自定义颜色、表情符号；（表情符号由替换为“□”改为直接去除）<br>
 2）去除尾部/备注内容；<br>
 3）去除首行内容。<br>
+4）不能再使用特殊字符了。如\n 空格 ° 等都会被屏蔽，甚至直接整行不显示<br>
 ![image](https://user-images.githubusercontent.com/64049788/236507390-29b4841b-d8db-4d67-a524-80107d093d41.png)
 具体可以移步  https://developers.weixin.qq.com/community/develop/doc/000a2ae286cdc0f41a8face4c51801?blockType=1&page=1  <br><br>
 2023.02.15：迄今运行稳定，若配置过公众号模板的配置后直接运行。后续会持续维护<br><br>
