@@ -34,7 +34,7 @@ BIRTHDAY: 倒数日（原生日），换行分隔，见更新说明。格式如 
 START_DATE: 正数日期，格式：2008-08-08<br>
 CITY: 城市，不要加市，准确到地级市。比如：北京、天津、广州、承德。  
 ~~具体可以移步 https://github.com/rxrw/daily_morning 寻找几个关键参数~~  该项目已经被官方封了  <br>
-~~
+<del>
 VX模板如下  
 {{date.DATA}}   
 城市：{{city.DATA}}   
@@ -50,7 +50,7 @@ VX模板如下
   
 {{note_en.DATA}}   
 {{note_ch.DATA}}  
-~~ 
+</del>
 效果如图
 ![7DD39B07860A54664A542CE7202B8E9D](https://user-images.githubusercontent.com/64049788/187068544-f7a97567-d1f3-42d5-a762-7357c5c3d113.png)
 
