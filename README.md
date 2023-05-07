@@ -41,16 +41,13 @@ VX模板如下
 天气：{{weather.DATA}}   
 最低气温: {{min_temperature.DATA}}   
 最高气温: {{max_temperature.DATA}}   
-  
 今天是我们恋爱的第{{love_day.DATA}}天❤❤❤  
 {{birthday1.DATA}}  
 {{birthday2.DATA}}  
-  
 今天也要乖乖的多喝水~(*^▽^*)  
-  
 {{note_en.DATA}}   
 {{note_ch.DATA}}  
-</del>
+</del><br>
 效果如图
 ![7DD39B07860A54664A542CE7202B8E9D](https://user-images.githubusercontent.com/64049788/187068544-f7a97567-d1f3-42d5-a762-7357c5c3d113.png)
 
